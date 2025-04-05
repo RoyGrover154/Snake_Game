@@ -5,11 +5,11 @@ A classic Snake Game built using Python. Navigate the snake, eat food, grow long
 
  ###  Features
 
--Smooth gameplay loop
--Score tracking 
--Increasing difficulty 
--Clean graphics with pygame (or terminal UI with curses 
--Simple keyboard controls
+- Smooth gameplay loop
+- Score tracking 
+- Increasing difficulty 
+- Clean graphics with pygame (or terminal UI with curses 
+- Simple keyboard controls
 
 
 ###  Requirements
